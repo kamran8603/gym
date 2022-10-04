@@ -1,0 +1,69 @@
+.training {
+  background-image: linear-gradient(rgba(0, 2, 2, 0.1), rgba(0, 2, 2, 0.1)),
+    url("./Images/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg");
+  width: 1270px;
+  height: 700px;
+  border: 3px solid black;
+  color: whitesmoke;
+  
+}
+.head {
+  margin-top: 80px;
+  text-align: left;
+  padding-left: 100px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 45px;
+ 
+}
+.para {
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 100px;
+
+  font-size: 17px;
+  font-weight: normal;
+  
+}
+
+.training_image {
+  margin-top: 50px;
+  width: 550px;
+  height: 750px;
+  color: black;
+  background-color: whitesmoke;
+ 
+  margin-left: 105px;
+}
+
+.training_img_container {
+  margin-top: -750px;
+  width: 550px;
+  height: 750px;
+  
+ 
+  margin-left: 700px;
+  color: black;
+  background-color: whitesmoke;
+}
+
+.training_contact_card {
+  width: 500px;
+  margin-top: 50px;
+}
+
+.training_image_card_para {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 40px;
+  margin-left: 23px;
+  margin-right: 23px;
+}
+.training_image_card_head {
+  color: black;
+  font-size: 28px;
+  margin-top: 45px;
+}
+.anchor_link a {
+  color: #1cb0e6;
+  font-size: 18px;
+}

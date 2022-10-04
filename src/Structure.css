@@ -1,0 +1,55 @@
+.container {
+  width: 100vw;
+  
+  display: flex;
+  flex-direction: column;
+  
+  /* justify-content: space-evenly; */
+}
+
+.nav-bar {
+ width: auto;
+  height: 80px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+ 
+ 
+ 
+}
+
+.banner {
+ 
+  height: 700px;
+}
+
+.about-us {
+ 
+  height: 800px;
+}
+
+.training-modules {
+  
+  min-height: 2000px;
+}
+
+.getting-results {
+  
+  height: 1260px;
+}
+
+.customer-feedback {
+  
+  background-color: #2a2828;
+  min-height: 800px;
+}
+.footer {
+  
+  height: 400px;
+}
+
+.armoury-info {
+  border: 2px solid sky;
+  height: 150px;
+}
+

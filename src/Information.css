@@ -1,0 +1,18 @@
+.information{
+    font-size: small;
+   
+    margin-bottom: 50px;
+    color: grey;
+    margin-left: 90px;
+    margin-right: 90px;
+    
+}
+.information_footer{
+    color: grey;
+}
+.information_second{
+    float: right;
+}
+.information_right{
+    float: left;
+}

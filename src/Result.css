@@ -1,0 +1,65 @@
+.result_description{
+    font-size: 17px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 1.9;
+    
+}
+.result_container{
+   
+    
+    height: 400px;
+    width: 1250px;
+    background-color: white;
+    
+}
+.first_result_image{
+    width: 100px;
+    height: 450px;
+    background-color: red;
+    display: flex;
+    margin-left: 50px;
+    
+}
+.result_second_image{
+    margin-top: 0px;
+
+}
+.result_word_one{
+   
+    width: 590px;
+    height: 250px;
+    background-color: whitesmoke;
+    text-align: left;
+    display: fle;
+    margin-left: 60px;
+}
+.result_word_one_para{
+   
+margin-top: 20px;
+font-size: 17px;
+margin-left: 40px;
+margin-right: 40px;
+line-height: 1.2;
+
+}
+.result_word_two{
+    
+    margin-top: -220px;
+    width: 560px;
+    height: 220px;
+    background-color: whitesmoke;
+    text-align: left;
+    display: flex;
+    margin-left: 630px;
+   
+   
+   
+}
+.result_word_two_para{
+margin-top: 20px;
+font-size: 17px;
+margin-left: 20px;
+}
+
+

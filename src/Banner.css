@@ -1,0 +1,55 @@
+.banner_container {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./Images/Armoury.jpg");
+  height: 700px;
+  width: 100%;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+ 
+}
+.banner_paragraph_one {
+  text-align: left;
+ 
+  float: right;
+  top: 8;
+  padding-top: 80px;
+  width: 670px;
+  height: 450px;
+  
+}
+.banner_paragraph_first_line {
+  font-size: 22px;
+  color: white;
+}
+.banner_paragraph_second_line {
+  font-family: "Times New Roman", Times, serif;
+  margin-top: 18px;
+  width: 100%;
+  overflow-y: hidden;
+  font-size: 300%;
+  color: #1cb0e6;
+  font-weight: bold;
+}
+.banner_paragraph_third_line {
+  color: white;
+  font-size: 21px;
+  margin-top: -18px;
+}
+.banner_button {
+  padding: 14px 40px;
+  border-radius: 5px;
+  margin: 0px 0px 0px 0px;
+  background-color: #1cb0e6;
+  border: 3px solid #1cb0e6;
+  border-radius: 35px;
+  text-align: inherit;
+  overflow-y: hidden;
+  margin-top: 19px;
+}
+.banner_button:hover {
+  background-color: transparent;
+  color: #2967ad;
+}

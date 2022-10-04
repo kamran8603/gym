@@ -1,0 +1,31 @@
+.feedback_first{
+    color: white;
+    line-height: 1.9;
+}
+.feedback_heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-top: 0px;
+    color: aliceblue;
+    margin-top: 71px;
+}
+.feedback_button{
+    padding: 14px 40px;
+    border-radius: 65px;
+    margin: 0px 0px 0px 20px;
+    background-color: #1cb0e6;
+    border: 3px solid #1cb0e6;
+    text-align: inherit;
+   
+    text-align: inherit;
+    overflow-y: hidden;
+    color: black;
+    margin-top: 55px;
+
+}
+.feedback_button:hover{
+    background-color: transparent;
+    color: #1cb0e6;
+  
+    
+}
