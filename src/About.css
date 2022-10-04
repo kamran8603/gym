@@ -1,0 +1,35 @@
+.about {
+  margin-top: 55px;
+  font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: rgb(42, 42, 42);
+  
+}
+.about_firstline {
+  color: #2a2a2a;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  font-size: 45px !important;
+  font-weight: 700;
+}
+.about_button{
+    padding: 14px 40px;
+    border-radius: 65px;
+    margin: 0px 0px 0px 20px;
+    background-color: black;
+    border: 3px solid black;
+    text-align: inherit;
+   
+    text-align: inherit;
+    overflow-y: hidden;
+    color: antiquewhite;
+    margin-top: 55px;
+
+}
+.about_button:hover{
+    background-color: transparent;
+    color: black;
+    
+}
